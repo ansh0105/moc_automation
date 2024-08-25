@@ -19,7 +19,7 @@ DataGenie is a powerful web application designed to automate two key processes:
 
 ## Features
 ### Report Generator
-- **Automated PDF Creation**: Generate comprehensive reports based on predefined structures.
+- **Automated Report Creation**: Generate comprehensive reports based on predefined structures.
 - **Text Summarization**: Automatically summarize key topics within your data.
 - **Visualizations**: Integrate tables and charts seamlessly into your reports.
 - **Editable Outputs**: Download and edit reports in Word format before finalizing.
@@ -74,7 +74,7 @@ You need to update the `.env` file under the `genai_utilits` directory with your
 ```bash
 streamlit run app.py
 ```
-The Streamlit app will be accessible in your web browser, where you can upload files for pdf generation and chatbot.
+The Streamlit app will be accessible in your web browser, where you can upload files for report generation and chatbot.
 
 
 ### Report Generator
@@ -92,8 +92,8 @@ The Streamlit app will be accessible in your web browser, where you can upload f
     - **Sector-wise analysis**
     - **Commodities comparison**
 
-**Here is a demonstration video of DataGenie PDF Generator in action:**
-[]()
+**Here is a demonstration video of DataGenie Report Generator in action:**
+[](https://github.com/user-attachments/assets/90ebe8ef-72c0-42dd-b2e9-142b7385f4e6)
 
 ### Chatbot
 
@@ -104,8 +104,7 @@ The Streamlit app will be accessible in your web browser, where you can upload f
     - The process involves fetching data from the PDF, initializing VectorStore, preparing data for embeddings, and starting the chat. The latest three memory states are retained for continuity.
   
 **Here is a demonstration video of DataGenie ChatBot in action:**
-[]()
-
+[](https://github.com/user-attachments/assets/805f0731-cdaa-4213-b024-e3eda524082b)
 
 ## Customization
 
