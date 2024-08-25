@@ -93,7 +93,8 @@ The Streamlit app will be accessible in your web browser, where you can upload f
     - **Commodities comparison**
 
 **Here is a demonstration video of DataGenie Report Generator in action:**
-[](https://github.com/user-attachments/assets/90ebe8ef-72c0-42dd-b2e9-142b7385f4e6)
+
+[](https://github.com/user-attachments/assets/0d08458a-bbbe-4d6d-b88e-4b93cda9e88c)
 
 ### Chatbot
 
@@ -104,6 +105,7 @@ The Streamlit app will be accessible in your web browser, where you can upload f
     - The process involves fetching data from the PDF, initializing VectorStore, preparing data for embeddings, and starting the chat. The latest three memory states are retained for continuity.
   
 **Here is a demonstration video of DataGenie ChatBot in action:**
+
 [](https://github.com/user-attachments/assets/805f0731-cdaa-4213-b024-e3eda524082b)
 
 ## Customization
